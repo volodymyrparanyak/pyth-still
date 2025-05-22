@@ -10,3 +10,4 @@ multiclass_classifier
 __pycache__/
 
 .secrets.baseline
+models_multiclass
